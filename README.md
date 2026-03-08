@@ -328,9 +328,3 @@ kubectl get ingress -A
 ```
 
 ---
-
-# 👨‍💻 Author
-
-Mahesh
-
-DevOps | AWS | Kubernetes Learning Project
